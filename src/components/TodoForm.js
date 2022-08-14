@@ -49,6 +49,7 @@ function TodoFrom(props) {
             name="text"
             className="todo-input"
             ref={inputRef}
+            data-testid="inputTodo-2"
           />
           <button
             data-testid="addTodo-1"
