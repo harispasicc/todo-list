@@ -1,3 +1,32 @@
+Todo-List Project
+
+Project Description
+
+The ToDo List application is an online application that represents a digitized version of the traditional to-do lists created on a piece of paper. The website must work correctly in both Google Chrome and
+Mozilla Firefox web browsers As stated by the document, there are no hardware or software requirements beyond these including but not limited to, memory or specific software packages that need to be utilized nor software packages that need not be utilized.
+
+Project Features:
+
+-TodoList: main code of the app containing update, create, remove and completed functionalities with imported form and todo.
+
+-TodoFrom: form with input and buttons (add and update)
+
+-Todo: with remove and edit icons and listed todo, also with completed todo
+
+-App.js: TodoList imported with Header and Footer
+
+-Header: navbar with logo and name of the project
+
+-Footer: name of the company and rights
+
+-Test folder: contains test of the button and input
+
+-index.css: styling of the app
+
+Built With:
+
+-HTML -CSS -JS -React JS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
