@@ -37,6 +37,7 @@ function TodoFrom(props) {
             className="todo-input edit"
             onChange={handleChange}
             ref={inputRef}
+            required
           />
           <button className="todo-button edit">Update</button>
         </>
